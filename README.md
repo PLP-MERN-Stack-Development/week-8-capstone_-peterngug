@@ -43,3 +43,4 @@ http://localhost:5173
 
 Deployment: Frontend :week-8-capstone-peterngug3.vercel.app
             Backend  :https://week-8-capstone-peterngug-backend.onrender.com
+video link :https://drive.google.com/file/d/1m2uyXB_PyagBvyvvBt4-_4e4L4Sv2rCp/view?usp=sharing
