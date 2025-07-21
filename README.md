@@ -40,3 +40,6 @@ b. Start the development server
 npm run dev
 Open your browser and go to:
 http://localhost:5173
+
+Deployment: Frontend :week-8-capstone-peterngug3.vercel.app
+            Backend  :https://week-8-capstone-peterngug-backend.onrender.com
